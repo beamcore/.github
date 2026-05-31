@@ -96,7 +96,7 @@ Instead, the Beamcore.dev harness utilizes structured, typed, low-overhead inter
 
 ---
 
-## 6. Ecosystem Integration: Mistral AI Partnership
+## 6. Ecosystem Integration: Mistral AI Native
 
 We design, optimize, and benchmark our artificial intelligence architectures to operate natively and optimally within the **Mistral AI** ecosystem. 
 
